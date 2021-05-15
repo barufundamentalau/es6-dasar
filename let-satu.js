@@ -6,6 +6,9 @@ var myName = "Candra Pratama";
 
 // ES6
 let myCar = "RWB";
-// ES6 let akan melakukan replace atau perubahan sama seperti var di ES5
+/**
+ * let akan melakukan replace atau perubahan sama seperti var di ES5
+ * tapi tidak sama dengan var juga lihat contoh dibawah ini
+ */
 myCar = "Kijang";
 console.log(myCar);
